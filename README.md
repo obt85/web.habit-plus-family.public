@@ -3,6 +3,9 @@
 [![Android](https://img.shields.io/badge/Android-App-green?logo=android)](https://habit-plus-family.com)
 [![Website](https://img.shields.io/badge/Site%20Web-habit--plus--family.com-blue?logo=google-chrome)](https://habit-plus-family.com)
 ![Families](https://img.shields.io/badge/Made%20with%20❤️-for%20Families-red)
+![Privacy](https://img.shields.io/badge/No%20Ads-100%25%20Clean-brightgreen)
+![Tracking](https://img.shields.io/badge/No%20Tracking-Respect%20Total-blue)
+![Feedback](https://img.shields.io/badge/Feedback-Welcome-success)
 ![SEO](https://img.shields.io/badge/SEO-Optimisé-brightgreen)
 ![Licence](https://img.shields.io/badge/Licence-MIT-lightgrey)
 
