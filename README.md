@@ -1,4 +1,9 @@
-# Habit+ Family — Présentation officielle
+# Habit+ Family
+
+[![Android](https://img.shields.io/badge/Android-App-green?logo=android)](https://habit-plus-family.com)
+[![Website](https://img.shields.io/badge/Site%20Web-habit--plus--family.com-blue?logo=google-chrome)](https://habit-plus-family.com)
+![SEO](https://img.shields.io/badge/SEO-Optimisé-brightgreen)
+![Licence](https://img.shields.io/badge/Licence-MIT-lightgrey)
 
 **FR | EN below**
 
@@ -9,15 +14,14 @@ L’application familiale moderne pour organiser le quotidien, instaurer de bonn
 👉 https://habit-plus-family.com/fr/
 
 ## 🌟 Présentation
-**Habit+ Family** est une application mobile pensée pour les familles d’aujourd’hui — y compris les familles recomposées et la garde alternée.  
-Elle centralise **planning**, **habitudes**, **budget**, et facilite la coordination entre plusieurs parents, dans un environnement **sécurisé**, **respectueux de la vie privée**, et **sans revente de données**.
+Habit+ Family aide les familles — y compris recomposées ou en garde alternée — à mieux s’organiser grâce à un ensemble d’outils simples, ludiques et respectueux de la vie privée.
 
 ## 🎯 Fonctionnalités principales
-- **Planning familial partagé** : activités scolaires, sportives, événements, plusieurs foyers  
-- **Suivi d’habitudes gamifié** : plus de 600 habitudes, XP, badges, progression  
-- **Profils parent/enfant** : chaque profil voit uniquement ce qui le concerne  
-- **Budget familial** : suivi des dépenses, catégorisation, objectifs d’épargne  
-- **Sécurité & confidentialité** : données chiffrées, conforme RGPD, aucune revente
+- **Planning familial partagé**  
+- **Suivi d’habitudes gamifié** (600+ habitudes, XP, badges)  
+- **Profils parent/enfant**  
+- **Budget familial**  
+- **Confidentialité & sécurité** (chiffrement, RGPD, aucune revente)
 
 ## 📚 Pages utiles
 - À propos : https://habit-plus-family.com/fr/a-propos  
@@ -25,20 +29,16 @@ Elle centralise **planning**, **habitudes**, **budget**, et facilite la coordina
 - Mur des fondateurs : https://habit-plus-family.com/fr/fondateurs  
 
 ## 📱 Plateformes
-- **Android** (gratuit)  
-- Option **sans publicité** disponible
+- Android (gratuit)  
+- Option sans publicité
 
-## 🔗 Site officiel
-👉 **https://habit-plus-family.com/fr/**  
-👉 Version globale : https://habit-plus-family.com/
-
-## 📣 Objectif de ce dépôt
-Ce dépôt GitHub sert uniquement à :
-- Présenter brièvement Habit+ Family  
+## 🎯 Objectif de ce dépôt
+Ce dépôt sert uniquement à :
+- Présenter Habit+ Family  
 - Améliorer la visibilité du projet  
-- Offrir un point d’entrée vers le site officiel  
+- Rediriger vers le site officiel  
 
-Aucun code source de l’application n’est publié ici.
+Aucun code source n’est publié ici.
 
 ---
 
@@ -47,15 +47,14 @@ The modern family app to organize daily life, build healthy habits, and coordina
 👉 https://habit-plus-family.com/en/
 
 ## 🌟 Overview
-**Habit+ Family** is a mobile app designed for today’s families — including blended families and shared custody.  
-It centralizes **scheduling**, **habit tracking**, and **budget management** in a simple, playful, and privacy‑respecting environment.
+Habit+ Family helps families — including blended families and shared custody — stay organized with simple, playful, privacy‑respecting tools.
 
 ## 🎯 Key Features
-- **Shared family calendar**  
-- **Gamified habit tracking** (600+ habits, XP, badges)  
-- **Parent/child profiles**  
-- **Family budget module**  
-- **Privacy & security** (encrypted, GDPR‑compliant)
+- Shared family calendar  
+- Gamified habit tracking (600+ habits, XP, badges)  
+- Parent/child profiles  
+- Family budget module  
+- Privacy & security (encrypted, GDPR‑compliant)
 
 ## 📚 Useful pages
 - About : https://habit-plus-family.com/en/about  
@@ -63,19 +62,18 @@ It centralizes **scheduling**, **habit tracking**, and **budget management** in 
 - Founders Wall : https://habit-plus-family.com/en/founders-wall  
 
 ## 📱 Platforms
-- **Android** (free)  
-- Optional **ad‑free annual plan**
+- Android (free)  
+- Optional ad‑free plan
 
-## 📣 Purpose of this repository
-This GitHub repository is intended to:
-- Provide a clear presentation of Habit+ Family  
-- Improve discoverability and SEO  
-- Redirect users to the official website  
+## 🎯 Purpose of this repository
+This repository:
+- Presents Habit+ Family  
+- Improves discoverability  
+- Redirects users to the official website  
 
 No application source code is published here.
 
 ---
 
 ## 📄 Licence
-Ce dépôt ne contient pas de code source.  
-Le contenu textuel est fourni sous licence **MIT**, sauf indication contraire.
+MIT — voir le fichier LICENSE.
